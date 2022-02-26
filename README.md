@@ -1,5 +1,5 @@
 # Surfs_up
-##Overview
+## Overview
 The porpuse of this analysis is to evaluate the data to find out if Oahu is a good location to open a surf and ice cream shop. We developed this analysis thinking that we may need to use it in the future to open more locations or if the location in Oahu is not a good choice. we went through the temperatures and precipitations of an entire year to find out if Oahu would work to open a successful surf and ice cream shop.
 Since not everyone would be able to understand our code and would only be interested in the outcome, we created a flask app to have a better visualization of the data and everyone who is interested would be able of seeing the outcome.
 
